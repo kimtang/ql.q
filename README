@@ -1,0 +1,4 @@
+
+The main file is the ql.q which contains the core quantitative
+functions.
+It assumes that the file quant.q from gbkr.com is on the same directory. 
